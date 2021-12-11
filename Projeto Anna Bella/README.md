@@ -5,7 +5,7 @@ Trata-se de um site feito para uma modelo fictícia e foi desenvolvido na sessã
 
 > ✅ Status: Finalizado
 
-### Tecnologias usada:
+### Tecnologias usadas:
 <ul>
   <li>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
