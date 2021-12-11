@@ -1,4 +1,4 @@
-# Projeto UNES
+# Projeto Anna Bella
 
 ### Sobre:
 Trata-se de um site feito para uma modelo fictícia e foi desenvolvido na sessão 4  do curso, em que o tema é CSS.
