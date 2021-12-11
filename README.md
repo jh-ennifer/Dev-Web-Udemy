@@ -1,8 +1,9 @@
 # Dev-Web-Udemy
-### Repositório criado com o objetivo de armazenar projetos desenvolvidos ao longo da realização do curso [Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/) da Udemy
+### Sobre
+Repositório criado com o objetivo de armazenar projetos desenvolvidos ao longo da realização do curso [Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/) da Udemy
 >⚠️ Status: Em desenvolvimento
 
-#### Tecnologias usadas
+### Tecnologias usadas
 <ul>
   <li>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
@@ -16,5 +17,5 @@
   </li>
 </ul>
 
-#### Projetos disponíveis:
+### Projetos disponíveis:
 * [Projeto UNES](https://github.com/jh-ennifer/Dev-Web-Udemy/tree/main/Projeto%20UNES) (Site institucional para uma faculdade fictícia)
