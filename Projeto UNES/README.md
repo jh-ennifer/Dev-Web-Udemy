@@ -14,4 +14,19 @@ Trata-se de um site institucional para uma faculdade fictícia e foi desenvolvid
   </li>
 </ul>
 
+### Como utilizar:
+#### Opção 1:
+<ol>
+  <li>
+    Abra o diretório onde o arquivo index.html está;
+  </li>
+  <li>
+    Abra o arquivo index.html;
+  </li>
+</ol>
+
+#### Opção 2:
+- Baixe e use a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) do [Visual Studio Code](https://code.visualstudio.com/download), assim caso você queria alterar algo no código, poderá ver essas alterações em tempo real;
+
+
 _🚨 A estruturação de sites usando tabela não é recomendada, hoje em dia existem maneiras melhores de estruturar um site, esse projeto foi desenvolvido apenas para fim de estudos🚨_
