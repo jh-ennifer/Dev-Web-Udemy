@@ -19,3 +19,5 @@ Repositório criado com o objetivo de armazenar projetos desenvolvidos ao longo 
 
 ### Projetos disponíveis:
 * [Projeto UNES](https://github.com/jh-ennifer/Dev-Web-Udemy/tree/main/Projeto%20UNES) (Site institucional para uma faculdade fictícia)
+* [Projeto Anna Bella](https://github.com/jh-ennifer/Dev-Web-Udemy/tree/main/Projeto%20Anna%20Bella) (Site para uma modelo fictícia)
+* [Projeto TechBlog](https://github.com/jh-ennifer/Dev-Web-Udemy/tree/main/Projeto%20TechBlog) (Blog de tecnologia fictício)
